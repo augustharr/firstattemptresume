@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<meta charset="utf-8">
+<title>HTML Resume 2022</title>
+	<h1>August Harr</h1>
+<body>
+	<h2>Contact</h2>
+	augustharr12@gmail.com<br>
+
+	(804)-839-5402
+	
+	<img src="../Pictures/Augie Carter Mountain.jpg" width="437" height="458" alt=""/>
+	
+<h3>Skills</h3>
+<h4>Copywriting</h4>
+		<ul>Creative briefs, creative strategies, and advertisement scripts</ul>
+		<ul>Storyboard writing and illustrating</ul>
+
+<h4>Digital design</h4>
+	<ul>Adobe: Photoshop, Illustrator, and InDesign</ul> 
+	
+<h4>Coding</h4>
+	<ul>HTML and CSS with Adobe Dreamweaver</ul>
+
+<h4>Other</h4>
+	
+Film Editing with iMovie <br>
+	<br>
+Audio Editing with Garageband <br>
+	<br>
+Lifetime of experience drawing and painting <br>
+	<br>
+Artistic rhetoric <br>
+	<br>
+
+<h3>Education</h3>
+	
+	<h4><a href= https://www.trinityes.org/academics/international-baccalaureate-diploma-programme/the-ib-diploma-programme-at-trinity>International Baccalaureate diploma</a> from Trinity Episcopal School</h4>
+		<ul>Higher Level IB courses: 2D Art, English, and Human Geography</ul>
+		<ul>Standard Level IB courses: Spanish, Environmental Science, Math Studies</ul>
+	
+	<h4>Currently enrolled in the School of Media Arts and Design at James Madison University</h4>
+		<ul>Concentration in <a href=https://www.jmu.edu/smad/our-program/index.shtml#ca>Creative Advertising</a></ul>  
+
+<h3>Experience</h3>
+	<h4>Mock Advertising Campaigns as a student at JMU</h4>
+		<ul>Practice working in a creative team with specialty delegation</ul>
+		<ul>Copywriting for various print, radio, and TV ads</ul>
+		<ul>Informative brochure design</ul>
+
+</body>
+<body>
+</body>
+</html>
